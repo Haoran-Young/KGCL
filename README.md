@@ -1,7 +1,6 @@
 Please download the dataset to form the structure of 'data' folder:
-
 <br />\data
-<br />|--\dataset_name  
+<br />|--\dataset_name
 <br />|----{original data files contained in TUDataset}
 
 Once the dataset is downloaded and properly structured, you can run 'data_preprocessing.sh' in 'scripts' folder. To process the specific dataset you downloaded, please see the commands listed in 'data_preprocessing.sh'.
